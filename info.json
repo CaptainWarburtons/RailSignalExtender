@@ -1,0 +1,12 @@
+{
+    "name": "RailSignalExtender",
+    "version": "1.0.0",
+    "title": "Rail Signal Extender",
+    "author": "CaptainWarburtons",
+    "homepage": "https://github.com/CaptainWarburtons/RailSignalExtender",
+    "factorio_version": "2.0",
+    "dependencies": [
+      "base >= 2.0"
+    ],
+    "description": "A tool to place evenly spaced rail signal ghosts on a single track until an intersection, train stop, or another rail signal is reached."
+  }
